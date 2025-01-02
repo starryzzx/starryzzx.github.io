@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>随缘活着</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-01-02T09:20:17.706Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>吸引力法则</title>
+    <link href="http://example.com/2025/01/02/%E5%90%B8%E5%BC%95%E5%8A%9B%E6%B3%95%E5%88%99/"/>
+    <id>http://example.com/2025/01/02/%E5%90%B8%E5%BC%95%E5%8A%9B%E6%B3%95%E5%88%99/</id>
+    <published>2025-01-02T08:58:07.000Z</published>
+    <updated>2025-01-02T09:20:17.706Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;读《吸引力法则：如何利用心理暗示实现愿望》&quot;&gt;&lt;a href=&quot;#读《吸引力法则：如何利用心理暗示实现愿望》&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
